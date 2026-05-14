@@ -28,9 +28,7 @@ const ProfilePage = () => {
     if(!user) {
         return <div>No user data</div>
     }
-
-
-
+    
   return (
 
     <div>
